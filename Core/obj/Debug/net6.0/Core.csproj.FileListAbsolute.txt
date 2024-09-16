@@ -1,0 +1,12 @@
+D:\Desktop\OnionTest\Core\bin\Debug\net6.0\Core.deps.json
+D:\Desktop\OnionTest\Core\bin\Debug\net6.0\Core.dll
+D:\Desktop\OnionTest\Core\bin\Debug\net6.0\Core.pdb
+D:\Desktop\OnionTest\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\OnionTest\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\Desktop\OnionTest\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\Desktop\OnionTest\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\Desktop\OnionTest\Core\obj\Debug\net6.0\Core.dll
+D:\Desktop\OnionTest\Core\obj\Debug\net6.0\refint\Core.dll
+D:\Desktop\OnionTest\Core\obj\Debug\net6.0\Core.pdb
+D:\Desktop\OnionTest\Core\obj\Debug\net6.0\ref\Core.dll
+D:\Desktop\OnionTest\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache

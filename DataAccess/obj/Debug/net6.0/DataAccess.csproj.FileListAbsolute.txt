@@ -1,0 +1,17 @@
+D:\Desktop\OnionTest\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Desktop\OnionTest\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\Desktop\OnionTest\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Desktop\OnionTest\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Desktop\OnionTest\DataAccess\bin\Debug\net6.0\Core.dll
+D:\Desktop\OnionTest\DataAccess\bin\Debug\net6.0\Core.pdb
+D:\Desktop\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Desktop\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Desktop\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Desktop\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Desktop\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.csproj.Up2Date
+D:\Desktop\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Desktop\OnionTest\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Desktop\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Desktop\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\Desktop\OnionTest\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

@@ -1,0 +1,17 @@
+D:\Desktop\OnionTest\Business\bin\Debug\net6.0\Business.deps.json
+D:\Desktop\OnionTest\Business\bin\Debug\net6.0\Business.dll
+D:\Desktop\OnionTest\Business\bin\Debug\net6.0\Business.pdb
+D:\Desktop\OnionTest\Business\bin\Debug\net6.0\Core.dll
+D:\Desktop\OnionTest\Business\bin\Debug\net6.0\DataAccess.dll
+D:\Desktop\OnionTest\Business\bin\Debug\net6.0\DataAccess.pdb
+D:\Desktop\OnionTest\Business\bin\Debug\net6.0\Core.pdb
+D:\Desktop\OnionTest\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\Desktop\OnionTest\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\OnionTest\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\Desktop\OnionTest\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\Desktop\OnionTest\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\Desktop\OnionTest\Business\obj\Debug\net6.0\Business.csproj.Up2Date
+D:\Desktop\OnionTest\Business\obj\Debug\net6.0\Business.dll
+D:\Desktop\OnionTest\Business\obj\Debug\net6.0\refint\Business.dll
+D:\Desktop\OnionTest\Business\obj\Debug\net6.0\Business.pdb
+D:\Desktop\OnionTest\Business\obj\Debug\net6.0\ref\Business.dll

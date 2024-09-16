@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\OnionTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35A4742D-3752-4A26-A8E0-DED232AF24C3}|API\\API.csproj|d:\\desktop\\oniontest\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A4742D-3752-4A26-A8E0-DED232AF24C3}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7207443E-C3F8-4D1A-A396-684CB9E5714A}|Business\\Business.csproj|D:\\Desktop\\OnionTest\\business\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7207443E-C3F8-4D1A-A396-684CB9E5714A}|Business\\Business.csproj|solutionrelative:business\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7207443E-C3F8-4D1A-A396-684CB9E5714A}|Business\\Business.csproj|D:\\Desktop\\OnionTest\\business\\helperservices\\implementations\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7207443E-C3F8-4D1A-A396-684CB9E5714A}|Business\\Business.csproj|solutionrelative:business\\helperservices\\implementations\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A4742D-3752-4A26-A8E0-DED232AF24C3}|API\\API.csproj|D:\\Desktop\\OnionTest\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35A4742D-3752-4A26-A8E0-DED232AF24C3}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 717,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Desktop\\OnionTest\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Desktop\\OnionTest\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:21:48.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Desktop\\OnionTest\\Business\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "D:\\Desktop\\OnionTest\\Business\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "Business\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:02:19.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Desktop\\OnionTest\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "D:\\Desktop\\OnionTest\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-14T14:49:54.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Desktop\\OnionTest\\Business\\HelperServices\\Implementations\\TokenService.cs",
+              "RelativeDocumentMoniker": "Business\\HelperServices\\Implementations\\TokenService.cs",
+              "ToolTip": "D:\\Desktop\\OnionTest\\Business\\HelperServices\\Implementations\\TokenService.cs",
+              "RelativeToolTip": "Business\\HelperServices\\Implementations\\TokenService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:41:00.89Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
