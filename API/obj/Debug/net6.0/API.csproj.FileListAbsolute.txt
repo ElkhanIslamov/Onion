@@ -81,3 +81,6 @@ D:\Desktop\OnionTest\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyD
 D:\Desktop\OnionTest\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 D:\Desktop\OnionTest\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
 D:\Desktop\OnionTest\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Desktop\OnionTest\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Desktop\OnionTest\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\OnionTest\API\obj\Debug\net6.0\API.sourcelink.json

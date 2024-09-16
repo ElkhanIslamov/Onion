@@ -1,5 +1,6 @@
 ﻿using Business.DTOs.AuthDtos;
 using Business.Services.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -7,6 +8,7 @@ namespace API.Controllers
 {
 	[Route("api/[controller]")]
 	[ApiController]
+
 	public class AuthController : ControllerBase
 	{
 		private readonly IAuthService _authService;
