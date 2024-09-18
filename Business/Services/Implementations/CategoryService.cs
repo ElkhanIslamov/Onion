@@ -36,13 +36,15 @@ public class CategoryService : ICategoryService
 		return categoryGetDto;
 
 	}
-	public async Task AddAsync(CategoryPostDto category)
+	public async Task СreateCategoryAsync(CategoryPostDto category)
 	{
 		bool isExsist = await _repository.IsExistAsync(c => c.Name == category.Name && !c.IsDeleted);
 		if (isExsist)
 			throw new CategoryAlreadyExistException($"Category name: {category.Name} already exist!");
-		Category categoryPostDto = _mapper.Map<Category>(category);
-		await _repository.AddAsync(categoryPostDto);
+
+		var newCategory = _mapper.Map<Category>(category);
+
+		await _repository.AddAsync(newCategory);
 		await _repository.SaveAsync();
 	}
 

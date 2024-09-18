@@ -10,3 +10,15 @@ D:\Desktop\OnionTest\Core\obj\Debug\net6.0\refint\Core.dll
 D:\Desktop\OnionTest\Core\obj\Debug\net6.0\Core.pdb
 D:\Desktop\OnionTest\Core\obj\Debug\net6.0\ref\Core.dll
 D:\Desktop\OnionTest\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\Рабочий стол\OnionTest\Core\bin\Debug\net6.0\Core.deps.json
+D:\Рабочий стол\OnionTest\Core\bin\Debug\net6.0\Core.dll
+D:\Рабочий стол\OnionTest\Core\bin\Debug\net6.0\Core.pdb
+D:\Рабочий стол\OnionTest\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+D:\Рабочий стол\OnionTest\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\OnionTest\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+D:\Рабочий стол\OnionTest\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+D:\Рабочий стол\OnionTest\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\OnionTest\Core\obj\Debug\net6.0\Core.dll
+D:\Рабочий стол\OnionTest\Core\obj\Debug\net6.0\refint\Core.dll
+D:\Рабочий стол\OnionTest\Core\obj\Debug\net6.0\Core.pdb
+D:\Рабочий стол\OnionTest\Core\obj\Debug\net6.0\ref\Core.dll

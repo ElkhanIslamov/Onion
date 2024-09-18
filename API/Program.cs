@@ -29,6 +29,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 	options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
 });
 
+
 builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
 {
 	options.User.RequireUniqueEmail = true;
@@ -43,6 +44,7 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
 	options.Lockout.MaxFailedAccessAttempts = 3;
 
 })
+
 	.AddEntityFrameworkStores<AppDbContext>()
 	.AddDefaultTokenProviders();
 builder.Services.AddAuthentication(options =>
@@ -95,7 +97,7 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
-//app.AddExceptionHandler();
+app.AddExceptionHandler();
 
 
 app.MapControllers();

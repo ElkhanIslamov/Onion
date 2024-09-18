@@ -2267,19 +2267,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Elkhan.Islamov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\OnionTest\\Business\\Business.csproj",
+      "projectUniqueName": "D:\\Рабочий стол\\OnionTest\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "D:\\Desktop\\OnionTest\\Business\\Business.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\OnionTest\\Business\\obj\\",
+      "projectPath": "D:\\Рабочий стол\\OnionTest\\Business\\Business.csproj",
+      "packagesPath": "C:\\Users\\Elkhan.Islamov\\.nuget\\packages\\",
+      "outputPath": "D:\\Рабочий стол\\OnionTest\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Elkhan.Islamov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2293,8 +2293,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Desktop\\OnionTest\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\Desktop\\OnionTest\\DataAccess\\DataAccess.csproj"
+            "D:\\Рабочий стол\\OnionTest\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\Рабочий стол\\OnionTest\\DataAccess\\DataAccess.csproj"
             }
           }
         }
@@ -2303,11 +2303,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2347,7 +2342,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

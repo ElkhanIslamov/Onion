@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DataAccess.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20240911191249_CreateUser")]
-    partial class CreateUser
+    [Migration("20240918102558_ProductUpdate")]
+    partial class ProductUpdate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

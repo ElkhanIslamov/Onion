@@ -12,6 +12,7 @@ public class ProductConfiguration : IEntityTypeConfiguration<Product>
 		builder.Property(p=> p.Description).IsRequired(false).HasMaxLength(500);
 		builder.Property(p => p.Price).IsRequired(true);
 		builder.Property(p=>p.Rating).IsRequired(true);
+		builder.Property(p=>p.CategoryId).IsRequired(true);
 
 		builder.HasCheckConstraint("Ck_ProductPrice", "Price>0");
 		builder.HasCheckConstraint("Ck_ProductRating", "Rating>=0 AND Rating <=5");

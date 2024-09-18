@@ -18,7 +18,7 @@ namespace API.Controllers
 		}
 
 		[HttpGet]
-		public async Task<IActionResult> GetAll(string search)
+		public async Task<IActionResult> GetAll(string? search)
 		{
 			return Ok(await _categoryService.GetAllCategoriesAsync(search));
 
@@ -31,8 +31,8 @@ namespace API.Controllers
 		[HttpPost]
 		public async Task<IActionResult>Create(CategoryPostDto categoryPostDto)
 		{
-			await _categoryService.AddAsync(categoryPostDto);
-			return StatusCode((int)HttpStatusCode.Created);
+			await _categoryService.СreateCategoryAsync(categoryPostDto);
+			return StatusCode((int)HttpStatusCode.Created, "Category succesfully created");
 		}
 	}
 }

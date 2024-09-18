@@ -19,12 +19,13 @@ public static class ExceptionHandlerExtention
 				//{
 				//	statusCode = (int)HttpStatusCode.NotFound;
 				//	message = feature.Error.Message;
-				//};
+				//}; // Solid princip-n OpenClose prinsipine esaslanir yazdigimiz kod genishlenmeye aciq olmalidir,
+				//modifikasiyaya qapali olmalidir
 				if(feature?.Error is IBaseException )
 				{
-					var error = (IBaseException)feature.Error;
-					statusCode = error.StatusCode;
-					message = error.ErrorMessage;
+					IBaseException exception = (IBaseException)feature.Error;
+					statusCode = exception.StatusCode;
+					message = exception.ErrorMessage;
 
 				}
 				var response = new

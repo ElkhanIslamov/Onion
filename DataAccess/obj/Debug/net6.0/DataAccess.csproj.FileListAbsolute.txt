@@ -15,3 +15,20 @@ D:\Desktop\OnionTest\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
 D:\Desktop\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.pdb
 D:\Desktop\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
 D:\Desktop\OnionTest\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\Рабочий стол\OnionTest\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Рабочий стол\OnionTest\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\Рабочий стол\OnionTest\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Рабочий стол\OnionTest\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Рабочий стол\OnionTest\DataAccess\bin\Debug\net6.0\Core.dll
+D:\Рабочий стол\OnionTest\DataAccess\bin\Debug\net6.0\Core.pdb
+D:\Рабочий стол\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Рабочий стол\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Рабочий стол\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Рабочий стол\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\Рабочий стол\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Рабочий стол\OnionTest\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Рабочий стол\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Рабочий стол\OnionTest\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\Рабочий стол\OnionTest\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

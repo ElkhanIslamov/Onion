@@ -6,5 +6,5 @@ public interface ICategoryService
 {
 	Task<List<CategoryGetDto>> GetAllCategoriesAsync(string? search);
 	Task<CategoryGetDto>GetByIdAsync(int id);	
-	Task AddAsync(CategoryPostDto categoryPostDto);
+	Task СreateCategoryAsync(CategoryPostDto categoryPostDto);
 }
