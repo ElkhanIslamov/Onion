@@ -1,4 +1,7 @@
-﻿namespace Business.DTOs.ProductDtos;
+﻿using Business.DTOs.BusinesDtos;
+using Core.Entities;
+
+namespace Business.DTOs.ProductDtos;
 
 public class ProductGetDto
 {
@@ -9,4 +12,5 @@ public class ProductGetDto
     public bool IsInStock { get; set; }
     public string Image { get; set; }
     public int Rating { get; set; }
+    public CategoryGetDto Category{ get; set; }
 }

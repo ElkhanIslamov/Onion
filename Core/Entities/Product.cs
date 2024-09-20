@@ -10,7 +10,7 @@ public class Product : BaseEntity
     public string Image { get; set; }
     public int Rating { get; set; }
 	public bool IsInStock { get; set; }
-    public int? CategoryId { get; set; }
+    public int CategoryId { get; set; }
     public Category Category { get; set; }
 
 }

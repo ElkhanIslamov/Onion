@@ -7,4 +7,5 @@ public	 class ProductPostDto
 	public double Price { get; set; }
 	public string Image { get; set; }
 	public int Rating { get; set; }
+    public int CategoryId { get; set; }
 }

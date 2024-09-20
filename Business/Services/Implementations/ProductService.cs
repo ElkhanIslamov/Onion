@@ -21,7 +21,7 @@ public class ProductService : IProductService
 	public async Task<List<ProductGetDto>> GetAllProductsAsync(string? search)
 	{
 		var dbProducts = await _repository.GetFilteredAsync(p => search != null ? p.Name.ToLower()
-						 .Contains(search.ToLower()) : true && !p.IsDeleted);
+						 .Contains(search.ToLower()) : true && !p.IsDeleted, "Category");
 		var products = _mapper.Map<List<ProductGetDto>>(dbProducts);
 		return products;
 	}
