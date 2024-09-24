@@ -55,6 +55,7 @@ builder.Services.AddScoped<ICategoryService, CategoryService>();
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<ITokenService, TokenService>();
 builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<IFileService, FileService>();
 
 
 
@@ -78,7 +79,9 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
-app.AddExceptionHandler();
+app.UseStaticFiles();
+
+//app.AddExceptionHandler();
 
 
 app.MapControllers();

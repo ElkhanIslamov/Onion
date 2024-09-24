@@ -1,9 +1,11 @@
 ﻿using AutoMapper;
 using Business.DTOs.ProductDtos;
 using Business.Exceptions.ProductExceptions;
+using Business.HelperServices.Interfaces;
 using Business.Services.Interfaces;
 using Core.Entities;
 using DataAccess.Repository.Interface;
+using Microsoft.AspNetCore.Http;
 
 namespace Business.Services.Implementations;
 
@@ -11,14 +13,16 @@ public class ProductService : IProductService
 {
 	private readonly IRepository<Product> _repository;
 	private readonly IMapper _mapper;
+	private readonly IFileService _fileService;
 
-	public ProductService(IRepository<Product> repository, IMapper mapper)
-	{
-		_repository = repository;
-		_mapper = mapper;
-	}
+    public ProductService(IRepository<Product> repository, IMapper mapper, IFileService fileService)
+    {
+        _repository = repository;
+        _mapper = mapper;
+        _fileService = fileService;
+    }
 
-	public async Task<List<ProductGetDto>> GetAllProductsAsync(string? search)
+    public async Task<List<ProductGetDto>> GetAllProductsAsync(string? search)
 	{
 		var dbProducts = await _repository.GetFilteredAsync(p => search != null ? p.Name.ToLower()
 						 .Contains(search.ToLower()) : true && !p.IsDeleted, "Category");
@@ -37,6 +41,10 @@ public class ProductService : IProductService
 	public async Task AddAsync(ProductPostDto productPostDto)
 	{
 		Product product = _mapper.Map<Product>(productPostDto);
+
+		string fileName = await  _fileService.UploadAsync(productPostDto.Image, "image/", 3000 );
+		product.Image = fileName;
+
 		await _repository.AddAsync(product);
 		await _repository.SaveAsync();
 	}

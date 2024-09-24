@@ -31,7 +31,7 @@ namespace API.Controllers
 			
 		}
 		[HttpPost]
-		public async Task<IActionResult>Create(ProductPostDto productPostDto)
+		public async Task<IActionResult>Create([FromForm] ProductPostDto productPostDto)
 		{
 			await _productService.AddAsync(productPostDto);
 			return StatusCode((int)HttpStatusCode.Created, "Product sucsessfully created");
